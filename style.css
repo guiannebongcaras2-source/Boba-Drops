@@ -1,7 +1,8 @@
-leg (
-    height: 100px
-    width: 100px
-)
-body ( 
-    background-color: radialGradient blue
-)
+body {
+    background-image: url("./yeo.gif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
